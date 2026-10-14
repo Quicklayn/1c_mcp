@@ -54,7 +54,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.mcp_ПолныеПрава</xr:Item>
 			</DefaultRoles>
 			<Vendor>Харин Владимир</Vendor>
-			<Version>1.8.1</Version>
+			<Version>1.9.1</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
